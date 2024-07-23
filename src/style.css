@@ -43,3 +43,7 @@ button {
   background-color: #0091CE;
   color: #fff;
 }
+
+a:not([href]):not([tabindex]){
+  color: blue;
+}
